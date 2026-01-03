@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/run.dir/main.cpp.o CMakeFiles/run.dir/class.cpp.o CMakeFiles/run.dir/func.cpp.o -o run  /opt/homebrew/lib/libSDL2.dylib
