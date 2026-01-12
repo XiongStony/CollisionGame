@@ -14,7 +14,7 @@ cmake_minimum_required(VERSION 3.22)
 set(projectName run)
 
 project(${projectName})
-set(CMAKE_CXX_STANDARD 17)  # Use C++11 (or 14/17/20)
+set(CMAKE_CXX_STANDARD 20)  # Use C++11 (or 14/17/20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)    # 强制要求
 set(CMAKE_CXX_EXTENSIONS OFF)          # 不用 gnu++17，而是严格 c++17
 set(CMAKE_OSX_ARCHITECTURES "arm64")
