@@ -9,7 +9,7 @@
 # add_executable(${projectName} main.cpp)
 # target_link_libraries(${projectName} PRIVATE SDL2::SDL2)
 
-cmake_minimum_required(VERSION 3.22)
+cmake_minimum_required(VERSION 3.30)
 
 set(projectName run)
 

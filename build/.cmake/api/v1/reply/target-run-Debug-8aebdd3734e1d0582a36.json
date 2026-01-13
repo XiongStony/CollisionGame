@@ -20,7 +20,7 @@
 		"files" : 
 		[
 			"CMakeLists.txt",
-			"/opt/homebrew/Cellar/cmake/3.30.5/share/cmake/Modules/FindPkgConfig.cmake"
+			"/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake"
 		],
 		"nodes" : 
 		[
@@ -42,19 +42,19 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 881,
+				"line" : 1174,
 				"parent" : 2
 			},
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 365,
+				"line" : 813,
 				"parent" : 3
 			},
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 346,
+				"line" : 794,
 				"parent" : 4
 			},
 			{
@@ -65,6 +65,22 @@
 			}
 		]
 	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "PkgConfig::SDL2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "PkgConfig::EIGEN3::@6890427a1f51a3e7e1df"
+		}
+	],
 	"compileGroups" : 
 	[
 		{
@@ -123,7 +139,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-Wl,-search_paths_first -Wl,-headerpad_max_install_names",
 				"role" : "flags"
 			},
 			{
@@ -134,6 +150,17 @@
 		],
 		"language" : "CXX"
 	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "PkgConfig::SDL2::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "PkgConfig::EIGEN3::@6890427a1f51a3e7e1df"
+		}
+	],
 	"name" : "run",
 	"nameOnDisk" : "run",
 	"paths" : 
