@@ -1,20 +1,20 @@
 [
 {
   "directory": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build",
-  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -D_THREAD_SAFE -o CMakeFiles/run.dir/main.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -D_THREAD_SAFE @CMakeFiles/run.dir/main.cpp.o.modmap -o CMakeFiles/run.dir/main.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp",
   "file": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp",
-  "output": "CMakeFiles/run.dir/main.cpp.o"
+  "output": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles/run.dir/main.cpp.o"
 },
 {
   "directory": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build",
-  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -D_THREAD_SAFE -o CMakeFiles/run.dir/class.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -D_THREAD_SAFE @CMakeFiles/run.dir/class.cpp.o.modmap -o CMakeFiles/run.dir/class.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp",
   "file": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp",
-  "output": "CMakeFiles/run.dir/class.cpp.o"
+  "output": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles/run.dir/class.cpp.o"
 },
 {
   "directory": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build",
-  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -D_THREAD_SAFE -o CMakeFiles/run.dir/func.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/eigen/5.0.1/include/eigen3 -g -std=c++20 -arch arm64 -D_THREAD_SAFE @CMakeFiles/run.dir/func.cpp.o.modmap -o CMakeFiles/run.dir/func.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp",
   "file": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp",
-  "output": "CMakeFiles/run.dir/func.cpp.o"
+  "output": "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles/run.dir/func.cpp.o"
 }
 ]

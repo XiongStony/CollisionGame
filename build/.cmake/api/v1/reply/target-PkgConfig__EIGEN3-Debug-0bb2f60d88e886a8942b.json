@@ -8,8 +8,7 @@
 			"add_library",
 			"_pkg_create_imp_target",
 			"_pkg_recalculate",
-			"pkg_check_modules",
-			"set_property"
+			"pkg_check_modules"
 		],
 		"files" : 
 		[
@@ -24,7 +23,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 26,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
@@ -44,12 +43,6 @@
 				"file" : 0,
 				"line" : 787,
 				"parent" : 3
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 794,
-				"parent" : 3
 			}
 		]
 	},
@@ -58,17 +51,10 @@
 		"major" : 2,
 		"minor" : 9
 	},
-	"id" : "PkgConfig::SDL2::@6890427a1f51a3e7e1df",
+	"id" : "PkgConfig::EIGEN3::@6890427a1f51a3e7e1df",
 	"imported" : true,
-	"interfaceLinkLibraries" : 
-	[
-		{
-			"backtrace" : 5,
-			"fragment" : "/opt/homebrew/lib/libSDL2.dylib"
-		}
-	],
 	"local" : true,
-	"name" : "PkgConfig::SDL2",
+	"name" : "PkgConfig::EIGEN3",
 	"paths" : 
 	{
 		"build" : ".",

@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build",
+	"dir-cur-src" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2",
+	"dir-top-bld" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build",
+	"dir-top-src" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/opt/homebrew/include",
+		"/opt/homebrew/include/SDL2",
+		"/opt/homebrew/Cellar/eigen/5.0.1/include/eigen3"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles/run.dir",
+	"sources" : 
+	{
+		"CMakeFiles/run.dir/class.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp"
+		},
+		"CMakeFiles/run.dir/func.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp"
+		},
+		"CMakeFiles/run.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp"
+		}
+	}
+}

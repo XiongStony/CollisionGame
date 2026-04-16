@@ -76,43 +76,43 @@ CMakeFiles/run.dir/main.cpp.o: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/main.cpp.o: /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp
 CMakeFiles/run.dir/main.cpp.o: CMakeFiles/run.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/run.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/main.cpp.o -MF CMakeFiles/run.dir/main.cpp.o.d -o CMakeFiles/run.dir/main.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/main.cpp.o -MF CMakeFiles/run.dir/main.cpp.o.d -o CMakeFiles/run.dir/main.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp
 
 CMakeFiles/run.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp > CMakeFiles/run.dir/main.cpp.i
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp > CMakeFiles/run.dir/main.cpp.i
 
 CMakeFiles/run.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp -o CMakeFiles/run.dir/main.cpp.s
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/main.cpp -o CMakeFiles/run.dir/main.cpp.s
 
 CMakeFiles/run.dir/class.cpp.o: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/class.cpp.o: /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp
 CMakeFiles/run.dir/class.cpp.o: CMakeFiles/run.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/run.dir/class.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/class.cpp.o -MF CMakeFiles/run.dir/class.cpp.o.d -o CMakeFiles/run.dir/class.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/class.cpp.o -MF CMakeFiles/run.dir/class.cpp.o.d -o CMakeFiles/run.dir/class.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp
 
 CMakeFiles/run.dir/class.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run.dir/class.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp > CMakeFiles/run.dir/class.cpp.i
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp > CMakeFiles/run.dir/class.cpp.i
 
 CMakeFiles/run.dir/class.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run.dir/class.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp -o CMakeFiles/run.dir/class.cpp.s
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/class.cpp -o CMakeFiles/run.dir/class.cpp.s
 
 CMakeFiles/run.dir/func.cpp.o: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/func.cpp.o: /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp
 CMakeFiles/run.dir/func.cpp.o: CMakeFiles/run.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/stonyxiong/files/Programming/Cpp/LSdl2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/func.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/func.cpp.o -MF CMakeFiles/run.dir/func.cpp.o.d -o CMakeFiles/run.dir/func.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/run.dir/func.cpp.o -MF CMakeFiles/run.dir/func.cpp.o.d -o CMakeFiles/run.dir/func.cpp.o -c /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp
 
 CMakeFiles/run.dir/func.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run.dir/func.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp > CMakeFiles/run.dir/func.cpp.i
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp > CMakeFiles/run.dir/func.cpp.i
 
 CMakeFiles/run.dir/func.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run.dir/func.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp -o CMakeFiles/run.dir/func.cpp.s
+	/opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stonyxiong/files/Programming/Cpp/LSdl2/func.cpp -o CMakeFiles/run.dir/func.cpp.s
 
 # Object files for target run
 run_OBJECTS = \

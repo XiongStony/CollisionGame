@@ -6,7 +6,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.2.1/CMakeSystem.cmake"
+			"path" : "build/CMakeFiles/4.2.3/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -20,11 +20,11 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.2.1/CMakeCCompiler.cmake"
+			"path" : "build/CMakeFiles/4.2.3/CMakeCCompiler.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/4.2.1/CMakeCXXCompiler.cmake"
+			"path" : "build/CMakeFiles/4.2.3/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -64,7 +64,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/AppleClang-C.cmake"
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/Clang-C.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -85,11 +85,6 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -149,17 +144,12 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/AppleClang-CXX.cmake"
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/Clang-CXX.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
 		},
 		{
 			"isCMake" : true,
